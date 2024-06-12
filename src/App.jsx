@@ -12,21 +12,21 @@ const App = () => {
   let [task, setTask] = useState([
     {
       id: 1,
-      name: "Today task -1 ",
+      name: "TASK NUMBER -1 ",
       description:
         "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Culpa dolorum, numquam",
       isCompletion: true,
     },
     {
       id: 2,
-      name: "Office Task -2",
+      name: "TASK NUMBER -2",
       description:
         "Lorem ipsum dolor, sit amet consectetur ecusandae illum? Corporis, qui?",
       isCompletion: false,
     },
     {
       id: 3,
-      name: "Today task complete pannanum",
+      name: "TASK NUMBER-3",
       description:
         "Lorem ipsum dolor, sit amet consectetur adipisi usandae illum? Corporis, qui?",
       isCompletion: true,

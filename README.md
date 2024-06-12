@@ -1,6 +1,4 @@
-It is a Day-4 React components Landing page Task
 
-Welcome to the repository for website landing page!.It includes Bootstrap icons and images to showcase the beauty of landing page.
 
 # React + Vite
 
