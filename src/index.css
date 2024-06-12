@@ -1,0 +1,24 @@
+body{
+    background-image:pink
+    
+  }
+  .card{
+    background-image: pink
+  }
+  /* select button color change */
+  .not-complete{
+    background-color:orange;
+  }
+  .not-complete{
+    background-color: red;
+  }
+  input{
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid #767676;
+    padding: 5px;
+   
+  }
+  input:focus{
+    outline: 3px solid skyblue;
+  }
